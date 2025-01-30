@@ -7,4 +7,4 @@ The ROM is block addressed and blocks are 512 bytes each.
 
 Some light reversing of the format:
 ![Annotated hex dump of ROM header](/images/TinyTV ROM Header.png)
-![Annotated hex dump of Group header(/images/TinyTV ROM Group Header.png)
+![Annotated hex dump of Group header](/images/TinyTV ROM Group Header.png)
