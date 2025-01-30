@@ -6,5 +6,5 @@ The ROM contents are similar to those described in [the a3400pro repo](https://g
 The ROM is block addressed and blocks are 512 bytes each.
 
 Some light reversing of the format:
-image 1
-image 2
+![Annotated hex dump of ROM header](/images/TinyTV ROM Header.png)
+![Annotated hex dump of Group header(/images/TinyTV ROM Group Header.png)
